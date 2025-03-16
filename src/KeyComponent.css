@@ -1,0 +1,12 @@
+button {
+    padding: 10px 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: white;
+    cursor: pointer;
+}
+
+button.pressed {
+    background-color: #007bff;  /* 青色 */
+    color: white;  /* テキストを白に */
+}
